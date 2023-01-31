@@ -1,0 +1,28 @@
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.exe
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.deps.json
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.runtimeconfig.json
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.runtimeconfig.dev.json
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.dll
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.pdb
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.csproj.AssemblyReference.cache
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.AssemblyInfoInputs.cache
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.AssemblyInfo.cs
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.csproj.CoreCompileInputs.cache
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.dll
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.pdb
+C:\Users\nigarem\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.genruntimeconfig.cache
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.exe
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.deps.json
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.dll
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\bin\Debug\netcoreapp3.1\Academy tasks 8.pdb
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.dll
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.pdb
+C:\Users\User Widnows 10 Home\Desktop\Academy tasks 8\Academy tasks 8\obj\Debug\netcoreapp3.1\Academy tasks 8.genruntimeconfig.cache
